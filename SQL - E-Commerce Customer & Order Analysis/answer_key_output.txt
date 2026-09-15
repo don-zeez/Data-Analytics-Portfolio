@@ -1,0 +1,77 @@
+======================================================================
+Q1: TOP 10 CUSTOMERS BY REVENUE
+======================================================================
+  Ifeoma Nnamdi       (South East     ) Orders:  8  Revenue: NGN    1,034,000
+  Fatima Ibrahim      (South East     ) Orders:  9  Revenue: NGN      962,500
+  Yusuf Balogun      (South East     ) Orders:  7  Revenue: NGN      938,500
+  Ngozi Ibrahim      (South East     ) Orders:  8  Revenue: NGN      831,500
+  Obinna Nnamdi       (South East     ) Orders: 10  Revenue: NGN      789,000
+  Chidi Suleiman     (South East     ) Orders:  8  Revenue: NGN      765,000
+  Kelechi Okafor       (North Central  ) Orders:  7  Revenue: NGN      748,500
+  Kelechi Chukwu       (South South    ) Orders:  7  Revenue: NGN      742,500
+  Ifeoma Ibrahim      (South East     ) Orders:  7  Revenue: NGN      723,000
+  Yusuf Nwosu        (South West     ) Orders:  8  Revenue: NGN      684,500
+
+======================================================================
+Q2: REPEAT PURCHASE RATE
+======================================================================
+  Customers with >=1 completed order: 126
+  Repeat customers (>=2 orders):      86
+  Repeat Purchase Rate:                68.3%
+
+======================================================================
+Q3: MONTHLY REVENUE TREND
+======================================================================
+  2024-09   Orders:  24   Revenue: NGN    2,006,000
+  2024-10   Orders:  25   Revenue: NGN    2,040,000
+  2024-11   Orders:  21   Revenue: NGN    1,625,000
+  2024-12   Orders:  27   Revenue: NGN    2,520,500
+  2025-01   Orders:  31   Revenue: NGN    3,243,000
+  2025-02   Orders:  23   Revenue: NGN    2,093,000
+  2025-03   Orders:  32   Revenue: NGN    2,687,000
+  2025-04   Orders:  28   Revenue: NGN    2,317,000
+  2025-05   Orders:  44   Revenue: NGN    3,908,500
+  2025-06   Orders:  39   Revenue: NGN    3,605,500
+  2025-07   Orders:  43   Revenue: NGN    4,011,000
+  2025-08   Orders:  38   Revenue: NGN    2,928,000
+
+======================================================================
+Q4: REVENUE BY CATEGORY
+======================================================================
+  Electronics        Orders: 171  Units:  435  Revenue: NGN   10,864,000
+  Home & Kitchen     Orders: 192  Units:  504  Revenue: NGN    8,843,000
+  Fashion            Orders: 163  Units:  382  Revenue: NGN    7,050,000
+  Groceries          Orders: 147  Units:  318  Revenue: NGN    3,177,500
+  Beauty             Orders: 138  Units:  329  Revenue: NGN    3,050,000
+
+======================================================================
+Q5: CHURNED CUSTOMERS (>90 days since last order; reference date = 2025-08-31)
+======================================================================
+  Total churned customers: 58
+  Bola Abdullahi    last order 2024-09-05  (360 days ago)
+  Kemi Mohammed     last order 2024-09-20  (345 days ago)
+  Bola Nnamdi       last order 2024-09-20  (345 days ago)
+  Amaka Bello        last order 2024-10-06  (329 days ago)
+  Chiamaka Olawale      last order 2024-11-01  (303 days ago)
+  Emeka Olawale      last order 2024-11-24  (280 days ago)
+  Adaeze Ibrahim      last order 2024-11-24  (280 days ago)
+  Kelechi Chukwu       last order 2024-12-08  (266 days ago)
+  Yusuf Nwosu        last order 2024-12-15  (259 days ago)
+  Segun Balogun      last order 2024-12-23  (251 days ago)
+  ... and 48 more
+
+======================================================================
+Q6: SIGNED UP, NEVER ORDERED
+======================================================================
+  Total: 16
+  Bola Abdullahi    signed up 2023-02-14
+  Halima Yusuf        signed up 2023-07-30
+  Bola Yusuf        signed up 2023-06-01
+  Uche Ibrahim      signed up 2025-05-30
+  Zainab Mohammed     signed up 2023-11-12
+  Obinna Yusuf        signed up 2023-05-25
+  Amaka Okafor       signed up 2024-04-28
+  Chidi Adeyemi      signed up 2024-01-24
+  Yusuf Adeyemi      signed up 2025-06-29
+  Ifeoma Okafor       signed up 2024-01-18
+  ... and 6 more
