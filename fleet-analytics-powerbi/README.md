@@ -12,6 +12,19 @@ A 7-page, DAX-driven Power BI dashboard built on a 14-table logistics/fleet oper
 
 > Note: GitHub can't render a live preview of `.pbix` files in the browser — that's a GitHub limitation, not an issue with the file. Download it and open it in Power BI Desktop to interact with it, or just browse the screenshot above for a quick look.
 
+## 🗃️ Data source & scope
+
+Practice/synthetic logistics operations data spanning **14 related tables** and **Jan 2022 – early 2025** (~85,400 loads and trips, ~196,000 fuel purchases, 120 trucks, 150 drivers). Built for a data analytics training exercise — not real company data.
+
+## 🔍 Key findings
+
+- **Revenue:** $262.5M total revenue across the period, with a 61% gross margin. Columbus is the top-performing origin city by revenue; the top 4 customers alone account for over $26M combined.
+- **On-time delivery sits at 56%** — the clearest improvement opportunity surfaced by the dashboard, well below a typical 90%+ industry target.
+- **Fuel is the single largest cost driver**, at 36% of total revenue ($95.6M). Average diesel price fell from ~$4.20/gal to ~$3.90/gal over the three years, which helped offset rising volumes.
+- **Maintenance cost per mile is low ($0.05)** and the monthly maintenance cost trend declined gradually over the period, suggesting effective upkeep relative to fleet size (120 active trucks, 72.2K total downtime hours).
+- **Safety incidents trended down**, from roughly 10/month early in the dataset to about 5/month by the end. 38% of the 170 total incidents were flagged preventable, and 54 were at-fault — together pointing to a specific driver-coaching opportunity.
+- **Driver turnover is 17%**, with an average of 13.5 years of experience per driver and $2.1M in revenue generated per driver.
+
 ## 🗂️ What's inside
 
 A custom **Date table** plus a dedicated **`_Measures`** table holding ~44 DAX measures, organized into display folders by theme:
@@ -38,12 +51,13 @@ A custom **Date table** plus a dedicated **`_Measures`** table holding ~44 DAX m
 
 ## 🛠️ Tools used
 
-Power BI Desktop · DAX · Power Query (M) · Data modeling (star-schema-style relationships across 14 tables)
+Power BI Desktop · DAX · Power Query (M) · Data modeling (star-schema-style relationships across 14 tables) · [Tabular Editor](https://tabulareditor.com/) (C# scripting for bulk DAX measure creation)
 
 ## 📁 Files in this folder
 
 - `FLEET ANALYTICS.pbix` — the full Power BI project file
 - `Fleet_Analytics_Dashboard_Bold.png` — static preview image of all 7 pages
+- `create_all_measures.csx` — Tabular Editor C# script that bulk-creates and organizes all ~44 DAX measures into themed display folders
 - `README.md` — this file
 
 ---
