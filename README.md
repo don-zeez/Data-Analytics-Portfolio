@@ -1,24 +1,27 @@
-# Data-Analytics-Portfolio
+📊 Data Analytics Portfolio
 
-A collection of my data analytics projects, covering SQL, Python, Excel, Power Query, Power Pivot, and Power BI — from raw data cleaning through to dashboards and models.
+Hi, I'm Akande Abdulazeez Olanrewaju, a data analyst with an automotive engineering background. I build dashboards and models that turn operational data into decisions, with a focus on logistics, fleet and manufacturing data.
 
-## 🧰 Tools & Skills
+📍 Lagos, Nigeria · ✉️ abdazeez0607@gmail.com · 🔍 Looking for a remote data analyst role
 
-`Python` · `pandas` · `NumPy` · `Polars` · `scikit-learn` · `Matplotlib` / `Seaborn` · `Jupyter` · `SQL` · `Excel (openpyxl)` · `Power Query (M)` · `Power BI` · `DAX`
+🗂️ Projects
+Project	Industry	Tools	Highlights
+🚛 Fleet Analytics Dashboard	Logistics	Power BI, DAX	7-page report on about 550,000 rows. Found on-time delivery at only 56% and fuel at about 36% of revenue.
+🏭 Manufacturing Quality Analytics	Manufacturing	Power BI, Power Query, DAX, Key Influencers	Traced defects to temperature: about 47% of runs above 193.74 °C were defective, against 8.6% overall.
 
-## 📂 Projects
+More projects coming soon: Python and SQL analyses in energy and aviation.
 
-| Project | Description | Status |
-|---|---|---|
-| 🚛 [Fleet Analytics](fleet-analytics-powerbi/README.md) | 7-page DAX-driven Power BI dashboard on a 14-table logistics/fleet operations dataset — revenue, fuel, maintenance, driver performance, and safety analysis | ✅ Complete |
-| 🛢️ Oil & Gas Well Production | Production decline analysis using Arps decline curves | 🔧 In progress |
-| 🏭 Manufacturing Quality | Statistical process control (SPC) and defect prediction with Random Forest | 🔧 In progress |
-| ✈️ Aviation On-Time Performance | Flight delay and on-time performance analysis | 🔧 In progress |
-| 📦 Logistics Delivery & Billing | Delivery performance and billing anomaly detection | 🧱 Coming soon |
-| 📉 SaaS Churn & Retention | Customer churn modeling and retention analysis | 🧱 Coming soon |
-| 📈 Marketing Attribution & CLV | Marketing channel attribution and customer lifetime value | 🧱 Coming soon |
+🛠️ Tools and skills
+Area	Tools
+Dashboards and BI	Power BI, DAX, Power Query
+Programming	Python (pandas, NumPy, scikit-learn, Matplotlib, Seaborn), Jupyter Notebook
+Databases	SQL (window functions, aggregations)
+Spreadsheets	Excel (formulas, tables, charts)
+Skills	Data cleaning, data modelling, KPI design, data storytelling
+📁 How this repo is organised
 
-More projects will be added here as they're organized and uploaded.
+Each project has its own folder with a README, the files to open, and a short write-up of the findings. Open the README inside each folder to see the business question, method and results.
 
----
-📫 Feel free to explore each project folder for the full code, data model, and write-up.
+📬 Contact
+✉️ abdazeez0607@gmail.com
+💻 GitHub: don-zeez
