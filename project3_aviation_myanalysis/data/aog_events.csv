@@ -1,0 +1,16 @@
+aircraft_id,event_start,duration_days,reason,cost_usd
+TAIL-001,2023-09-12,1,Bird Strike Damage,24824.47
+TAIL-001,2024-01-09,4,Avionics Fault,49175.93
+TAIL-002,2023-04-01,4,Avionics Fault,184326.71
+TAIL-002,2023-06-12,4,Avionics Fault,126618.6
+TAIL-002,2023-11-28,3,Hydraulic Leak,137926.23
+TAIL-003,2023-10-09,3,Bird Strike Damage,39346.78
+TAIL-004,2023-10-31,1,Scheduled A-Check,116868.62
+TAIL-005,2023-10-04,1,Hydraulic Leak,188019.45
+TAIL-006,2023-11-21,3,Landing Gear Issue,179322.0
+TAIL-007,2024-03-14,3,Bird Strike Damage,219451.94
+TAIL-008,2023-07-19,2,Scheduled A-Check,35583.12
+TAIL-008,2024-02-13,5,Engine Inspection,291219.9
+TAIL-010,2024-06-20,3,Engine Inspection,284037.87
+TAIL-011,2023-03-15,5,Engine Inspection,285945.63
+TAIL-012,2023-09-10,2,Landing Gear Issue,59045.82
