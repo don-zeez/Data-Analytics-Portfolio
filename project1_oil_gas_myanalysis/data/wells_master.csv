@@ -1,0 +1,19 @@
+well_id,field_id,field_name,spud_offset_days,artificial_lift
+WELL-001,FLD-N,North Field,16,Natural Flow
+WELL-002,FLD-N,North Field,139,Gas Lift
+WELL-003,FLD-N,North Field,72,Gas Lift
+WELL-004,FLD-N,North Field,148,ESP
+WELL-005,FLD-N,North Field,65,ESP
+WELL-006,FLD-N,North Field,84,ESP
+WELL-007,FLD-C,Central Field,101,Rod Pump
+WELL-008,FLD-C,Central Field,120,ESP
+WELL-009,FLD-C,Central Field,143,ESP
+WELL-010,FLD-C,Central Field,141,Gas Lift
+WELL-011,FLD-C,Central Field,101,Gas Lift
+WELL-012,FLD-C,Central Field,99,Natural Flow
+WELL-013,FLD-C,Central Field,22,ESP
+WELL-014,FLD-S,South Field,100,ESP
+WELL-015,FLD-S,South Field,89,ESP
+WELL-016,FLD-S,South Field,125,Rod Pump
+WELL-017,FLD-S,South Field,47,Gas Lift
+WELL-018,FLD-S,South Field,140,Natural Flow
