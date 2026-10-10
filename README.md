@@ -1,42 +1,35 @@
-# 📊 Data Analytics Portfolio
+# Hi, I'm Akande Abdulazeez 👋
 
-Hi, I'm **Akande Abdulazeez Olanrewaju**, a data analyst with an automotive engineering background. I build dashboards and models that turn operational data into decisions, across logistics, manufacturing, aviation and energy.
+**Data analyst** with an automotive engineering background. I turn operational data into decisions with Power BI, Python and SQL, across logistics, manufacturing, aviation and energy.
 
-📍 Lagos, Nigeria · ✉️ abdazeez0607@gmail.com · 🔍 Looking for a remote data analyst role
+📍 Lagos, Nigeria  ·  🔍 Looking for a remote data analyst role
 
----
-
-## 🗂️ Projects
-
-| Project | Industry | Tools | Highlights |
-|---|---|---|---|
-| [🚛 **Fleet Analytics Dashboard**](fleet-analytics-powerbi) | Logistics | Power BI, DAX | 7-page report on about 550,000 rows. Found on-time delivery at only 56% and fuel at about 36% of revenue. |
-| [🏭 **Manufacturing Quality Analytics**](project2_engineering_myanalysis) | Manufacturing | Power BI, Power Query, DAX, Key Influencers | Traced defects to temperature: about 47% of runs above 193.74 °C were defective, against 8.6% overall. |
-| [✈️ **Flight On-Time Performance**](project3_aviation_myanalysis) | Aviation | Python, SQL, Excel, scikit-learn | Route C runs late in both directions (85% on time vs 91 to 93%), and weather cuts on-time performance from 92% to 40%. |
-| [🛢️ **Well Production Analytics**](project1_oil_gas_myanalysis) | Energy | Python, SQL, Excel, SciPy | Downtime does not explain decline (r = -0.31, p = 0.21), and downtime events were modelled with a Markov chain. |
-
+🌐 **[See my full portfolio on Notion](https://able-novel-140.notion.site/Akande-Abdulazeez-Olanrewaju-Data-Analytics-Portfolio-3f03e7481e65816e8d74fd989e0a259e)**
 
 ---
 
-## 🛠️ Tools and skills
+## 🗂️ Featured projects
 
-| Area | Tools |
-|---|---|
-| **Dashboards and BI** | Power BI, DAX, Power Query |
-| **Programming** | Python (pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn), Jupyter Notebook |
-| **Databases** | SQL (window functions, aggregations) |
-| **Spreadsheets** | Excel (formulas, tables, charts) |
-| **Skills** | Data cleaning, data modelling, KPI design, data storytelling |
+| Project | What I found | Tools |
+|---|---|---|
+| [🚛 **Fleet Analytics Dashboard**](https://github.com/don-zeez/Data-Analytics-Portfolio/tree/main/fleet-analytics-powerbi) | A 7-page report on about 550,000 rows: on-time delivery is only 56% and fuel is about 36% of revenue | Power BI, DAX |
+| [🏭 **Manufacturing Quality**](https://github.com/don-zeez/Data-Analytics-Portfolio/tree/main/project2_engineering_myanalysis) | About 47% of production runs above 193.74 °C were defective, against 8.6% overall | Power BI, Power Query, DAX |
+| [✈️ **Flight On-Time Performance**](https://github.com/don-zeez/Data-Analytics-Portfolio/tree/main/project3_aviation_myanalysis) | One route runs late in both directions, and weather cuts on-time flights from 92% to 40% | Python, SQL, Excel, scikit-learn |
+| [🛢️ **Well Production Analytics**](https://github.com/don-zeez/Data-Analytics-Portfolio/tree/main/project1_oil_gas_myanalysis) | Downtime does not explain decline (r = -0.31, p = 0.21), and downtime events were modelled with a Markov chain | Python, SQL, Excel, SciPy |
 
----
-
-## 📁 How this repo is organised
-
-Each project has its own folder with a README, the files to open, and a short write-up of the findings. Open the README inside each folder to see the business question, method and results.
+All projects use synthetic practice datasets.
 
 ---
 
-## 📬 Contact
+## 🛠️ Tools
 
-- ✉️ abdazeez0607@gmail.com
-- 💻 [GitHub: don-zeez](https://github.com/don-zeez)
+**Dashboards:** Power BI, DAX, Power Query
+**Programming:** Python (pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn), Jupyter
+**Databases:** SQL (window functions, CTEs, views)
+**Spreadsheets:** Excel (formulas, PivotTables, charts)
+
+---
+
+## 📬 Get in touch
+
+✉️ abdazeez0607@gmail.com
